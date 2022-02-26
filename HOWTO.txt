@@ -1,0 +1,13 @@
+To run this bot, you need both Python 2.7 and Python 3.5 or newer installed, and accessable by "python" and "python3" command.
+For Python 2, install "cython" module.
+For Python 3, install "discord.py" and "download" module.
+
+In the root, run the "build_all.bat" file.
+
+Go to the "tools" folder.
+Open the "token.dev" file in any Text Editor you like, then remove everything and enter in your bot token.
+Run the "start.py" file in Python 3.
+
+That's it. 
+
+P/S: Only Windows are supported for now, support for GNU/Linux will be coming in later release.
